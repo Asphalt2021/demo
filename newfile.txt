@@ -1,2 +1,1 @@
-#Hello
-print("This is a new file")
+This is a remote file created in the remote repository
